@@ -2,7 +2,7 @@
 
 ### Tecnologias que serão utilizadas:
 
-**Flutter, C# e SqlServer ou Postgres**
+**Flutter, C# e Postgres**
 
 ### Links para estudo: ###
 
